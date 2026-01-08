@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16269954644",
+    "project_id": "beasiswa-sistem",
+    "storage_bucket": "beasiswa-sistem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16269954644:android:92fb0a8c83ecbe4392e7c1",
+        "android_client_info": {
+          "package_name": "com.example.project_uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx2SPH7GxLyiEHhv3C_k2buj6Rit1vsuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16269954644:android:5ccdcdf22cb55e3092e7c1",
+        "android_client_info": {
+          "package_name": "project.uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx2SPH7GxLyiEHhv3C_k2buj6Rit1vsuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
