@@ -11,28 +11,24 @@ Create By :
 
 ### Desain UI/UX (Figma)
 > **Link Figma:**  
-> 
+> https://www.figma.com/design/In6Nji8Kkbcojd0JVumlNk/Untitled?node-id=572-341&t=3b7SYhRoYnsdkcaT-1
 ---
 
-### Dokumentasi UML Aplikasi Lapor Fasilitas
+### Dokumentasi UML & Penjelasan singkat aplikasi & screenshoot hasil implementasi Aplikasi SIMAP-BE
 > **Link Softcopy UML:**  
-> 
+> https://docs.google.com/document/d/1F4dCa7z_2F78lp8ZSBSVvH8AG2Ivlr5rb8e0XW-BXZc/edit?usp=sharing
 ---
 
-### Penjelasan singkat aplikasi dan screenshoot hasil implementasi
-> **Link Hasil**
->
----
 ## ✨ Fitur Utama
 
 Fitur Utama
-✅ Autentikasi Pengguna - Login dan Register dengan Firebase Auth
-✅ Input Data Beasiswa - Form lengkap dengan validasi
-✅ Geolokasi Otomatis - Ambil koordinat dan alamat dengan GPS
-✅ Upload Dokumen - Foto KTP dan Bukti Pendukung (disimpan lokal)
-✅ Manajemen Data - Lihat, Edit, dan Hapus data penerima
-✅ Tampilan Modern - Desain putih-biru profesional
-✅ Responsif & User-Friendly - UI/UX intuitif
+- ✅ Autentikasi Pengguna - Login dan Register dengan Firebase Auth
+- ✅ Input Data Beasiswa - Form lengkap dengan validasi
+- ✅ Geolokasi Otomatis - Ambil koordinat dan alamat dengan GPS
+- ✅ Upload Dokumen - Foto KTP dan Bukti Pendukung (disimpan lokal)
+- ✅ Manajemen Data - Lihat, Edit, dan Hapus data penerima
+- ✅ Tampilan Modern - Desain putih-biru profesional
+- ✅ Responsif & User-Friendly - UI/UX intuitif
 
 ---
 
@@ -55,11 +51,11 @@ Fitur Utama
 ---
 
 ## 📱 Alur Aplikasi
-Login/Register → User autentikasi dengan email & password
-Home Menu → Pilih tambah data atau lihat data
-Tambah Data → Isi form, ambil lokasi, upload foto, simpan
-Lihat Data → Daftar semua penerima, bisa edit/hapus
-Logout → Kembali ke halaman login
+- Login/Register → User autentikasi dengan email & password
+- Home Menu → Pilih tambah data atau lihat data
+- Tambah Data → Isi form, ambil lokasi, upload foto, simpan
+- Lihat Data → Daftar semua penerima, bisa edit/hapus
+- Logout → Kembali ke halaman login
 
 ---
 
