@@ -249,7 +249,6 @@ class _ScholarshipFormScreenState extends State<ScholarshipFormScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.stretch,
                   children: [
-                    // FORM CONTAINER - BIRU MUDA
                     Container(
                       padding: const EdgeInsets.all(20),
                       decoration: BoxDecoration(
