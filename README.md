@@ -1,7 +1,8 @@
 # 📱 Aplikasi Pendataan Beasiswa
 
 *SIMAP-BE* (Sistem Informasi Pemetaan Bantuan Beasiswa) merupakan aplikasi berbasis mobile yang dirancang untuk membantu proses pendataan dan pemetaan penerima bantuan beasiswa secara terstruktur dan berbasis lokasi.
- Aplikasi ini di kembangkan sebagai project UAS 
+Aplikasi ini di kembangkan sebagai project UAS
+
 Create By :
 - I Gede Desnata Adiaksa Putra (2301010089)
 - I Wayan Sudarma (2301010050)
@@ -36,7 +37,7 @@ Create By :
   <img src="assets/images/Home.jpeg" width="200">
 </p>
 
-### 📋 Daftar Laporan
+### 📋 List Penerima Beasiswa
 <p align="center">
   <img src="assets/images/List penerima B.jpeg" width="200">
 </p>
