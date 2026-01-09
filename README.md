@@ -18,6 +18,53 @@ Create By :
 > **Link Softcopy UML:**  
 > https://docs.google.com/document/d/1F4dCa7z_2F78lp8ZSBSVvH8AG2Ivlr5rb8e0XW-BXZc/edit?usp=sharing
 ---
+## Hasil Screnshots
+## 🖼️ Screenshot Aplikasi
+
+### 🔐 Halaman Login
+<p align="center">
+  <img src="assets/images/Login.jpeg" width="200">
+</p>
+
+### 📝 Halaman Register
+<p align="center">
+  <img src="lib/screnshot/02_register.jpeg" width="200">
+</p>
+
+### 🏠 Halaman Home
+<p align="center">
+  <img src="lib/screnshot/03_home.jpeg" width="200">
+</p>
+
+### 📋 Daftar Laporan
+<p align="center">
+  <img src="lib/screnshot/04_list.jpeg" width="200">
+</p>
+
+### 📋 Daftar Laporan with edit & delete option
+<p align="center">
+  <img src="lib/screnshot/05_list.jpeg" width="200">
+</p>
+
+### 🗑️ Hapus Laporan
+<p align="center">
+  <img src="lib/screnshot/06_delete.jpeg" width="200">
+</p>
+
+### ➕ Tambah Laporan
+<p align="center">
+  <img src="lib/screnshot/07_tambah.png" width="200">
+</p>
+
+### ✏️ Edit Laporan
+<p align="center">
+  <img src="lib/screnshot/08_edit.png" width="200">
+</p>
+
+### 🔍 Detail Laporan
+<p align="center">
+  <img src="lib/screnshot/09_detail.jpeg" width="200">
+</p>
 
 ## ✨ Fitur Utama
 
