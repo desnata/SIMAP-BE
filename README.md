@@ -1,6 +1,6 @@
 # 📱 Aplikasi Pendataan Beasiswa
 
-_SIMAP-BE_ (Sistem Informasi Pemetaan Bantuan Beasiswa) merupakan aplikasi berbasis mobile yang dirancang untuk membantu proses pendataan dan pemetaan penerima bantuan beasiswa secara terstruktur dan berbasis lokasi.
+_SIMAP-BE_ (Sistem Informasi Penerimaan Bantuan Beasiswa) merupakan aplikasi berbasis mobile yang dirancang untuk membantu proses pendataan dan pemetaan penerima bantuan beasiswa secara terstruktur dan berbasis lokasi.
 Aplikasi ini di kembangkan sebagai project UAS
 
 Create By :
